@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**AnnaAlexandrova1/AnnaAlexandrova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnnaAlexandrova1/AnnaAlexandrova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Привет! Я Анна. 
 
