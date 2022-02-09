@@ -21,3 +21,11 @@ I love create webpages with HTML, CSS and JavaScript. Also I love programming in
 
 <h3>My Codewars </h3>
 [![Profile badge](https://www.codewars.com/users/any7487/badges/large)](https://www.codewars.com/any7487/hugmanrique)
+
+
+
+
+This is the GitHub repository where I save copies of the katas I've completed on
+[codewars.com](https://www.codewars.com/).
+
+[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
