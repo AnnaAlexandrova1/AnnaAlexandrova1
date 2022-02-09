@@ -5,9 +5,11 @@
 
 <h1 align="center">I'am Anna</h1>
 
-<h2 align="center">I'm learning in Netology at the Frontend-developing course</h2>
 
-<p> Here I post my tasks from course and also my own projects</p>
+
+<p>I work in logistics and study JavaScript, HTML and CSS. I'm going to change my profession to Frontend-developer. I'm from Moscow.
+Here I post my tasks from course and also my own projects. 
+I love create webpages with HTML, CSS and JavaScript. Also I love programming in JavaScript, especially when I can find solve some problem.</p>
 
 
 <h3>Skills:</h3>
@@ -17,5 +19,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3>My Codewars </h3>
-! [codewars](https://www.codewars.com/users/Any7487/badges/large)
+<!--<h3>My Codewars </h3>
+! [codewars](https://www.codewars.com/users/Any7487/badges/large)-->
