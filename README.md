@@ -13,5 +13,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h3>Мой аккаунт на Codewars </h3>
-[![codewars](https://www.codewars.com/users/Any7487/badges/small)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/Any7487/badges/small)](https://www.codewars.com/users/Any7487) 
 
