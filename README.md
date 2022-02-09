@@ -1,11 +1,7 @@
 <!--
 **AnnaAlexandrova1/AnnaAlexandrova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Привет! Я Анна. 
-
-
-<h1 align="center">Привет! Я Анна 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет! Я Анна </h1>
 <h2 align="center">Учусь в Нетологии на курсе Frontend-разработчик</h2>
 
 
@@ -17,5 +13,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h3>Мой аккаунт на Codewars </h3>
-[![codewars](https://www.codewars.com/users/Any7487/badges/small)](https://www.codewars.com/users/username) 
+![codewars](https://www.codewars.com/users/Any7487/badges/small)](https://www.codewars.com/users/username) 
 
