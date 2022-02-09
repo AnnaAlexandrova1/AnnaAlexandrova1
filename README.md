@@ -2,8 +2,11 @@
 **AnnaAlexandrova1/AnnaAlexandrova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">HELLO, WORLD!</h1>
+
 <h1 align="center">I'am Anna</h1>
+
 <h2 align="center">I'm learning in Netology at the Frontend-developing course</h2>
+
 <p> Here I post my tasks from course and also my own projects</p>
 
 
