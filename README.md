@@ -19,5 +19,5 @@ I love create webpages with HTML, CSS and JavaScript. Also I love programming in
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<!--<h3>My Codewars </h3>
-! [codewars](https://www.codewars.com/users/Any7487/badges/large)-->
+<h3>My Codewars </h3>
+[![Profile badge](https://www.codewars.com/users/any7487/badges/large)](https://www.codewars.com/any7487/hugmanrique)
