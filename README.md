@@ -1,10 +1,11 @@
 <!--
 **AnnaAlexandrova1/AnnaAlexandrova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1 align="center">HELLO, WORLD! I'am Anna</h1>
+<h1 align="center">HELLO, WORLD! </h1>
+  
 
 
-<p>I work in logistics and study JavaScript, HTML and CSS. I'm going to change my profession to Frontend-developer. I'm from Moscow.
+<p>I'am Anna.I work in logistics and study JavaScript, HTML and CSS. I'm going to change my profession to Frontend-developer. I'm from Moscow.
 Here I post my tasks from course and also my own projects. 
 I love create webpages with HTML, CSS and JavaScript. Also I love programming in JavaScript, especially when I can find solve some problem.</p>
 
