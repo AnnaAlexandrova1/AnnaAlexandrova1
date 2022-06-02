@@ -20,9 +20,8 @@ E-mail: any7487@yandex.ru
 * **Библиотеки:** React;
 * **Технологии и инструменты:** HTML, CSS, Sass/SCSS, Babel, esLint, WebPack, git;
 
-**Мои учебные проекты Нетологии:** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
+**Мои учебные проекты** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
 
-**Мои проекты для самостоятельного обучения:** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
 
 Мой профиль на [codewars.com](https://www.codewars.com/).
 
