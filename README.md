@@ -1,23 +1,36 @@
 <!--
 **AnnaAlexandrova1/AnnaAlexandrova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### Александрова Анна
+Telegram: @any7487
 
-<h1 align="center">HELLO, WORLD! </h1>
-  
+E-mail: any7487@yandex.ru
 
+---
 
-<p>I'am Anna.I work in logistics and study JavaScript, HTML and CSS. I'm going to change my profession to Frontend-developer. I'm from Moscow.
-Here I post my tasks from course and also my own projects. 
-I love create webpages with HTML, CSS and JavaScript. Also I love programming in JavaScript, especially when I can find solve some problem.</p>
+Рада видеть вас в моей коллекции на GitHub.
+Сейчас я завершаю обучение на курсе  ["Frontend-разработчик"](https://netology.ru/profile/program/fe-42/schedule) в  [Нетологии](https://netology.ru)
+Изучаю JavaScript, React.
 
+Открыта для предложений по стажировке / работе. 
 
-<h3>Skills:</h3>
+### Техничекие навыки
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* **Языки программирования:** JavaScript (ES5, ES6+), TypeScript (базовое знакомство);
+* **Фреймворки:** Jest;
+* **Библиотеки:** React;
+* **Технологии и инструменты:** HTML, CSS, Sass/SCSS, Babel, esLint, WebPack, git;
 
-Here is my achievements on [codewars.com](https://www.codewars.com/).
+**Мои учебные проекты Нетологии:** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
+
+**Мои проекты для самостоятельного обучения:** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
+
+Мой профиль на [codewars.com](https://www.codewars.com/).
 
 [![Profile badge](https://www.codewars.com/users/any7487/badges/large)](https://www.codewars.com/users/any7487)
 
+#### GitHub статистика:
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AnnaAlexandrova1&show_icons=true&theme=dark" alt="AnnaAlexandrova1"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAlexandrova1&layout=compact&theme=dark" alt="AnnaAlexandrova1"/>
+
+---
