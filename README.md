@@ -22,14 +22,12 @@ E-mail: any7487@yandex.ru
 
 **Мои учебные проекты** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
 
-
-Мой профиль на [codewars.com](https://www.codewars.com/).
-
-[![Profile badge](https://www.codewars.com/users/any7487/badges/large)](https://www.codewars.com/users/any7487)
-
 #### GitHub статистика:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AnnaAlexandrova1&show_icons=true&theme=dark" alt="AnnaAlexandrova1"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAlexandrova1&layout=compact&theme=dark" alt="AnnaAlexandrova1"/>
 
+ Мой профиль на [codewars.com](https://www.codewars.com/).
+
+[![Profile badge](https://www.codewars.com/users/any7487/badges/large)](https://www.codewars.com/users/any7487)
 ---
