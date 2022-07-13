@@ -17,7 +17,6 @@ E-mail: any7487@yandex.ru
 
 * **Языки программирования:** JavaScript (ES5, ES6+), TypeScript (базовое знакомство);
 * **Фреймворки:** Jest;
-* **Библиотеки:** React;
 * **Технологии и инструменты:** HTML, CSS, Sass/SCSS, Babel, esLint, WebPack, git;
 
 **Мои учебные проекты** [GitHub](https://github.com/AnnaAlexandrova1/portfolio)
